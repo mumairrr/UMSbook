@@ -5,3 +5,15 @@
 .fs-7 {
     font-size: 0.8rem;
 }
+
+.bg-gray {
+    background: #f0f2f5;
+}
+
+@media (min-width: 82em) {
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+}
